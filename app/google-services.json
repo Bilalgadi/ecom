@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837516467643",
+    "firebase_url": "https://ecom-befdc.firebaseio.com",
+    "project_id": "ecom-befdc",
+    "storage_bucket": "ecom-befdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837516467643:android:fe80a40ad00e9b8b44789e",
+        "android_client_info": {
+          "package_name": "com.e.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837516467643-5cdfjb0b8q8o1495qhq9qgi89rva1bgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmQs0PvFtQhtzDl4iL1U_fe_9fSz6vbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837516467643-5cdfjb0b8q8o1495qhq9qgi89rva1bgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
